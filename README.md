@@ -90,11 +90,9 @@ I care about clean architecture, sharp UI, and systems that actually scale. I do
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=omarmubx7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=omarmubx7&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmubx7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="./profile/stats.svg" alt="GitHub Stats" />
+<br />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
