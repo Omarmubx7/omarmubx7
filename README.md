@@ -1,11 +1,11 @@
 <div align="center">
 
-# Omar Mubaidin
+# Omar Al-Mubaidin
 ### Full-Stack Engineer · Amman, Jordan 🇯🇴
 
-*Building fast, secure, and scalable systems for real businesses.*
+*I build fast, secure, and scalable digital products with strong UI, real-world usefulness, and clean engineering.*
 
-[![Portfolio](https://img.shields.io/badge/mubx.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mubx.dev/links)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mubx.dev/links)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mubx.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarmubaidin)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:omarmubaidin@proton.me)
@@ -14,18 +14,43 @@
 
 ---
 
+## 👋 Introduction
+
+I’m Omar, a Computer Science student at Hussein Technical University and a full-stack developer from Amman focused on building products that are useful, performant, and polished.
+
+My main interests are web engineering, UI/UX design, backend systems, and security-focused software. I like shipping quickly, learning by building, and improving every project through iteration.
+
+---
+
+## 🎯 Focus
+
+This profile is built for recruiters, collaborators, founders, and developers who want to quickly understand what I build and how I think.
+
+I’m especially interested in full-stack product development, educational tools, secure apps, and systems that solve real problems rather than demo-only ideas.
+
+---
+
 ## 💫 About Me
 
-CS student at **Hussein Technical University** and full-stack web developer shipping real products for real businesses.
-
-I care about clean architecture, sharp UI, and systems that actually scale. I don't just write code — I build things that matter.
+I care about clean architecture, sharp interface design, and software that feels reliable in the real world.
 
 - 🚀 Creator of **[HTUAI](https://github.com/Omarmubx7/htuai)** — an AI-powered course tracker for HTU students
-- 🤖 Built **mubxbot** — a JavaScript-based automation/AI bot system
-- 🏅 Competed in **PwC Hackathon 2026**
-- 📐 Obsessed with UI/UX — I use Figma before I write a single line
-- 📦 Building across TypeScript, PHP, Java, Python, and Go
-- ⚡ Shipping something new every single day
+- 🤖 Built **[mubxbot](https://github.com/Omarmubx7/mubxbot)** — a JavaScript-based automation and bot project
+- 🏅 Built projects through hackathons and fast delivery environments, including **[pwc-hackathon](https://github.com/Omarmubx7/pwc-hackathon)**
+- 📐 Strong interest in UI/UX, product structure, and frontend clarity
+- 🔐 Interested in secure systems and trustworthy user experiences
+- ⚡ Always building, testing, and learning something new
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---------|------------|-------|
+| [**HTUAI**](https://github.com/Omarmubx7/htuai) | AI-powered course tracker for HTU students | TypeScript, Next.js |
+| [**mubxbot**](https://github.com/Omarmubx7/mubxbot) | Automation and bot-based experimentation project | JavaScript |
+| [**java-projects**](https://github.com/Omarmubx7/java-projects) | Practice and implementation of data structures and algorithms | Java |
+| [**htu_martial_arts-man**](https://github.com/Omarmubx7/htu_martial_arts-man) | Martial arts management project for HTU | PHP ||
 
 ---
 
@@ -61,28 +86,14 @@ I care about clean architecture, sharp UI, and systems that actually scale. I do
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-### Cloud & DevOps
+### Cloud, DevOps, and Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### Design & Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**HTUAI**](https://github.com/Omarmubx7/htuai) | AI-powered course tracker for HTU students | TypeScript, Next.js |
-| [**mubxbot**](https://github.com/Omarmubx7/mubxbot) | Automation & AI bot system | JavaScript |
-| [**java-projects**](https://github.com/Omarmubx7/java-projects) | Data structures & algorithms in Java | Java |
-| [**aqabwi**](https://github.com/Omarmubx7/aqabwi) | TypeScript web application | TypeScript |
-| [**pwc-hackathon**](https://github.com/Omarmubx7/pwc-hackathon) | PwC Hackathon 2026 submission | JavaScript |
 
 ---
 
@@ -95,6 +106,14 @@ I care about clean architecture, sharp UI, and systems that actually scale. I do
 <img src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
+
+---
+
+## 📫 Contact
+
+The fastest way to reach me is through [LinkedIn](https://linkedin.com/in/omarmubaidin), [Instagram](https://instagram.com/mubx.dev), or [email](mailto:omarmubaidin@proton.me).
+
+You can also find my links and work hub at [mubx.dev/links](https://mubx.dev/links).
 
 ---
 
