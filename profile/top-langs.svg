@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Top Languages placeholder">
+  <rect width="495" height="195" rx="12" fill="#0d1117"/>
+  <rect x="1" y="1" width="493" height="193" rx="11" fill="none" stroke="#30363d"/>
+  <text x="24" y="36" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="20" font-weight="700">Top Languages</text>
+  <text x="24" y="72" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">Run the GitHub Action once to replace this with real language stats.</text>
+  <text x="24" y="104" fill="#58a6ff" font-family="Arial, sans-serif" font-size="16">Repository owner: Omarmubx7</text>
+  <text x="24" y="134" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">This placeholder prevents broken images before the first workflow run.</text>
+</svg>

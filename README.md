@@ -1,6 +1,6 @@
 <div align="center">
 
-# Omar Al-Mubaidin
+# Omar Mubaidin
 ### Full-Stack Engineer · Amman, Jordan 🇯🇴
 
 *Building fast, secure, and scalable systems for real businesses.*
@@ -18,13 +18,13 @@
 
 CS student at **Hussein Technical University** and full-stack web developer shipping real products for real businesses.
 
-I care about clean architecture, sharp UI, and systems that actually scale. I don't just write code — I build things that *matter*.
+I care about clean architecture, sharp UI, and systems that actually scale. I don't just write code — I build things that matter.
 
 - 🚀 Creator of **[HTUAI](https://github.com/Omarmubx7/htuai)** — an AI-powered course tracker for HTU students
 - 🤖 Built **mubxbot** — a JavaScript-based automation/AI bot system
 - 🏅 Competed in **PwC Hackathon 2026**
 - 📐 Obsessed with UI/UX — I use Figma before I write a single line
-- 📦 18+ private projects in production across TypeScript, PHP, and Go
+- 📦 Building across TypeScript, PHP, Java, Python, and Go
 - ⚡ Shipping something new every single day
 
 ---
@@ -98,25 +98,8 @@ I care about clean architecture, sharp UI, and systems that actually scale. I do
 
 ---
 
-## 🏆 Trophies
-
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=omarmubx7&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-### ✍️ Today's Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<div align="center">
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=omarmubx7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-*"Ship it, then iterate."*
+*Ship it, then iterate.*
 
 </div>
