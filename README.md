@@ -1,6 +1,6 @@
 <div align="center">
 
-# Omar Al-Mubaidin
+# Omar Mubaidin
 ### Full-Stack Engineer · Amman, Jordan 🇯🇴
 
 *I build fast, secure, and scalable digital products with strong UI, real-world usefulness, and clean engineering.*
