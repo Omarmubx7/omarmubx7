@@ -39,7 +39,7 @@
 
 | Project | What it is | Stack |
 |---------|------------|-------|
-| [**HTUAI**](https://github.com/Omarmubx7/htuai) | AI-powered course tracker for HTU students | TypeScript, Next.js |
+| [**MUBXAI**](https://github.com/Omarmubx7/htuai) | AI-powered course tracker for HTU students | TypeScript, Next.js |
 | [**mubxbot**](https://github.com/Omarmubx7/mubxbot) | Automation and bot-based experimentation project | JavaScript |
 | [**java-projects**](https://github.com/Omarmubx7/java-projects) | Practice and implementation of data structures and algorithms | Java |
 | [**htu_martial_arts-man**](https://github.com/Omarmubx7/htu_martial_arts-man) | Martial arts management project for HTU | PHP |
